@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF480AE-AED0-424F-BD5A-4600821F2C44}|vFashionWEB\\vFashionWEB.csproj|c:\\users\\datca\\onedrive\\m\u00E1y t\u00EDnh\\fullcodeshop\\sneakershopfull - copy\\vfashionweb\\vfashionweb\\views\\nguoidung\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDF480AE-AED0-424F-BD5A-4600821F2C44}|vFashionWEB\\vFashionWEB.csproj|solutionrelative:vfashionweb\\views\\nguoidung\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF480AE-AED0-424F-BD5A-4600821F2C44}|vFashionWEB\\vFashionWEB.csproj|C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vfashionweb\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDF480AE-AED0-424F-BD5A-4600821F2C44}|vFashionWEB\\vFashionWEB.csproj|solutionrelative:vfashionweb\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF480AE-AED0-424F-BD5A-4600821F2C44}|vFashionWEB\\vFashionWEB.csproj|C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vfashionweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDF480AE-AED0-424F-BD5A-4600821F2C44}|vFashionWEB\\vFashionWEB.csproj|solutionrelative:vfashionweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF480AE-AED0-424F-BD5A-4600821F2C44}|vFashionWEB\\vFashionWEB.csproj|C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vfashionweb\\views\\donhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDF480AE-AED0-424F-BD5A-4600821F2C44}|vFashionWEB\\vFashionWEB.csproj|solutionrelative:vfashionweb\\views\\donhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF480AE-AED0-424F-BD5A-4600821F2C44}|vFashionWEB\\vFashionWEB.csproj|C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vfashionweb\\areas\\nhanvien\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDF480AE-AED0-424F-BD5A-4600821F2C44}|vFashionWEB\\vFashionWEB.csproj|solutionrelative:vfashionweb\\areas\\nhanvien\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF480AE-AED0-424F-BD5A-4600821F2C44}|vFashionWEB\\vFashionWEB.csproj|C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vfashionweb\\areas\\nhanvien\\views\\nvhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDF480AE-AED0-424F-BD5A-4600821F2C44}|vFashionWEB\\vFashionWEB.csproj|solutionrelative:vfashionweb\\areas\\nhanvien\\views\\nvhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF480AE-AED0-424F-BD5A-4600821F2C44}|vFashionWEB\\vFashionWEB.csproj|C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vfashionweb\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDF480AE-AED0-424F-BD5A-4600821F2C44}|vFashionWEB\\vFashionWEB.csproj|solutionrelative:vfashionweb\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF480AE-AED0-424F-BD5A-4600821F2C44}|vFashionWEB\\vFashionWEB.csproj|C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vfashionweb\\areas\\admin\\views\\admindonhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDF480AE-AED0-424F-BD5A-4600821F2C44}|vFashionWEB\\vFashionWEB.csproj|solutionrelative:vfashionweb\\areas\\admin\\views\\admindonhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF480AE-AED0-424F-BD5A-4600821F2C44}|vFashionWEB\\vFashionWEB.csproj|C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vfashionweb\\areas\\admin\\views\\adminchat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDF480AE-AED0-424F-BD5A-4600821F2C44}|vFashionWEB\\vFashionWEB.csproj|solutionrelative:vfashionweb\\areas\\admin\\views\\adminchat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF480AE-AED0-424F-BD5A-4600821F2C44}|vFashionWEB\\vFashionWEB.csproj|C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vfashionweb\\areas\\admin\\views\\adminboss\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDF480AE-AED0-424F-BD5A-4600821F2C44}|vFashionWEB\\vFashionWEB.csproj|solutionrelative:vfashionweb\\areas\\admin\\views\\adminboss\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vFashionWEB\\Views\\NguoiDung\\Login.cshtml",
+              "RelativeDocumentMoniker": "vFashionWEB\\Views\\NguoiDung\\Login.cshtml",
+              "ToolTip": "C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vFashionWEB\\Views\\NguoiDung\\Login.cshtml",
+              "RelativeToolTip": "vFashionWEB\\Views\\NguoiDung\\Login.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T11:30:34.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vFashionWEB\\Views\\SanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "vFashionWEB\\Views\\SanPham\\Index.cshtml",
+              "ToolTip": "C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vFashionWEB\\Views\\SanPham\\Index.cshtml",
+              "RelativeToolTip": "vFashionWEB\\Views\\SanPham\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADgAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-19T11:30:34.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vFashionWEB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "vFashionWEB\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vFashionWEB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "vFashionWEB\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-19T11:30:34.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vFashionWEB\\Views\\Donhangs\\Details.cshtml",
+              "RelativeDocumentMoniker": "vFashionWEB\\Views\\Donhangs\\Details.cshtml",
+              "ToolTip": "C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vFashionWEB\\Views\\Donhangs\\Details.cshtml",
+              "RelativeToolTip": "vFashionWEB\\Views\\Donhangs\\Details.cshtml",
+              "ViewState": "AQIAABUBAAAAAAAAAAAewCMBAACgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-19T11:30:34.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vFashionWEB\\Areas\\NhanVien\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "vFashionWEB\\Areas\\NhanVien\\Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vFashionWEB\\Areas\\NhanVien\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "vFashionWEB\\Areas\\NhanVien\\Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AQIAAHUBAAAAAAAAAAAewIABAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-19T11:30:34.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vFashionWEB\\Areas\\NhanVien\\Views\\NVHome\\Index.cshtml",
+              "RelativeDocumentMoniker": "vFashionWEB\\Areas\\NhanVien\\Views\\NVHome\\Index.cshtml",
+              "ToolTip": "C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vFashionWEB\\Areas\\NhanVien\\Views\\NVHome\\Index.cshtml",
+              "RelativeToolTip": "vFashionWEB\\Areas\\NhanVien\\Views\\NVHome\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-19T11:30:34.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vFashionWEB\\Areas\\Admin\\Views\\AdminDonHang\\Index.cshtml",
+              "RelativeDocumentMoniker": "vFashionWEB\\Areas\\Admin\\Views\\AdminDonHang\\Index.cshtml",
+              "ToolTip": "C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vFashionWEB\\Areas\\Admin\\Views\\AdminDonHang\\Index.cshtml",
+              "RelativeToolTip": "vFashionWEB\\Areas\\Admin\\Views\\AdminDonHang\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-19T11:30:34.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vFashionWEB\\Areas\\Admin\\Views\\AdminChat\\Index.cshtml",
+              "RelativeDocumentMoniker": "vFashionWEB\\Areas\\Admin\\Views\\AdminChat\\Index.cshtml",
+              "ToolTip": "C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vFashionWEB\\Areas\\Admin\\Views\\AdminChat\\Index.cshtml",
+              "RelativeToolTip": "vFashionWEB\\Areas\\Admin\\Views\\AdminChat\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-19T11:30:34.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vFashionWEB\\Areas\\Admin\\Views\\AdminBoss\\Index.cshtml",
+              "RelativeDocumentMoniker": "vFashionWEB\\Areas\\Admin\\Views\\AdminBoss\\Index.cshtml",
+              "ToolTip": "C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vFashionWEB\\Areas\\Admin\\Views\\AdminBoss\\Index.cshtml",
+              "RelativeToolTip": "vFashionWEB\\Areas\\Admin\\Views\\AdminBoss\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-19T11:30:34.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vFashionWEB\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "vFashionWEB\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\datca\\OneDrive\\M\u00E1y t\u00EDnh\\fullcodeshop\\SneakerShopFull - Copy\\vFashionWEB\\vFashionWEB\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "vFashionWEB\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAIgBAAAAAAAAAAAewJYBAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-19T11:30:34.476Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

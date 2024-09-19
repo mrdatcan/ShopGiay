@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NamChart" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="Sp_GetReportProductByYear" ReturnType="Collection(NamChart.Sp_GetReportProductByYear_Result)">
+      <Parameter Name="Year" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="Sp_GetReportProductByYear_Result">
+    <Property Type="Int32" Name="years" Nullable="true" />
+    <Property Type="String" Name="Tensp" Nullable="true" MaxLength="50" />
+    <Property Type="Int32" Name="total" Nullable="true" />
+  </ComplexType>
+</Schema>

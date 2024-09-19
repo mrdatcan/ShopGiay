@@ -1,0 +1,848 @@
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\vFashionWEB.dll.config
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\vFashionWEB.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\vFashionWEB.pdb
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\csc.exe
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\csc.exe.config
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\csc.rsp
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\csi.exe
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\csi.exe.config
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\csi.rsp
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.AppContext.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.Console.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.Globalization.Calendars.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.Compression.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.FileSystem.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.Net.Http.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.Net.Sockets.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.ValueTuple.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XPath.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\vbc.exe
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\vbc.exe.config
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\vbc.rsp
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\VBCSCompiler.exe
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\Antlr3.Runtime.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\Newtonsoft.Json.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\System.Web.Helpers.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\System.Web.Mvc.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\System.Web.Optimization.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\System.Web.Razor.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Deployment.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Razor.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\WebGrease.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\System.Web.Helpers.xml
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\System.Web.Mvc.xml
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\System.Web.Optimization.xml
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\System.Web.Razor.xml
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.xml
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Deployment.xml
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Razor.xml
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\Newtonsoft.Json.xml
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\Antlr3.Runtime.pdb
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\abc\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.AssemblyReference.cache
+D:\Project\abc\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.CoreCompileInputs.cache
+D:\Project\abc\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.CopyComplete
+D:\Project\abc\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.pdb
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\EntityFramework.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\EntityFramework.SqlServer.dll
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\EntityFramework.xml
+D:\Project\abc\vFashionWEB\vFashionWEB\bin\EntityFramework.SqlServer.xml
+D:\Download\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.AssemblyReference.cache
+D:\Download\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.CoreCompileInputs.cache
+D:\Download\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.dll
+D:\Download\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.pdb
+D:\Download\vFashionWEB\vFashionWEB\bin\vFashionWEB.dll.config
+D:\Download\vFashionWEB\vFashionWEB\bin\vFashionWEB.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\vFashionWEB.pdb
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\csc.exe
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\csc.exe.config
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\csc.rsp
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\csi.exe
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\csi.exe.config
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\csi.rsp
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.AppContext.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.Collections.Immutable.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.Console.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.Globalization.Calendars.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.Compression.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.FileSystem.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.Net.Http.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.Net.Sockets.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.ValueTuple.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XPath.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\vbc.exe
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\vbc.exe.config
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\vbc.rsp
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\VBCSCompiler.exe
+D:\Download\vFashionWEB\vFashionWEB\bin\roslyn\VBCSCompiler.exe.config
+D:\Download\vFashionWEB\vFashionWEB\bin\Antlr3.Runtime.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\EntityFramework.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\EntityFramework.SqlServer.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\Microsoft.Web.Infrastructure.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\Newtonsoft.Json.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\System.Web.Helpers.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\System.Web.Mvc.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\System.Web.Optimization.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\System.Web.Razor.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Deployment.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Razor.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\WebGrease.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\EntityFramework.xml
+D:\Download\vFashionWEB\vFashionWEB\bin\EntityFramework.SqlServer.xml
+D:\Download\vFashionWEB\vFashionWEB\bin\System.Web.Helpers.xml
+D:\Download\vFashionWEB\vFashionWEB\bin\System.Web.Mvc.xml
+D:\Download\vFashionWEB\vFashionWEB\bin\System.Web.Optimization.xml
+D:\Download\vFashionWEB\vFashionWEB\bin\System.Web.Razor.xml
+D:\Download\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.xml
+D:\Download\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Deployment.xml
+D:\Download\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Razor.xml
+D:\Download\vFashionWEB\vFashionWEB\bin\Newtonsoft.Json.xml
+D:\Download\vFashionWEB\vFashionWEB\bin\Antlr3.Runtime.pdb
+D:\Download\vFashionWEB\vFashionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Download\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.CopyComplete
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\vFashionWEB.dll.config
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\vFashionWEB.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\vFashionWEB.pdb
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\csc.exe
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\csc.exe.config
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\csc.rsp
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\csi.exe
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\csi.exe.config
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\csi.rsp
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.AppContext.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.Console.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.Globalization.Calendars.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.Compression.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.FileSystem.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.Net.Http.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.Net.Sockets.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.ValueTuple.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XPath.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\vbc.exe
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\vbc.exe.config
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\vbc.rsp
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\VBCSCompiler.exe
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\Antlr3.Runtime.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\EntityFramework.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\EntityFramework.SqlServer.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\Newtonsoft.Json.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\System.Web.Helpers.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\System.Web.Mvc.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\System.Web.Optimization.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\System.Web.Razor.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Deployment.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Razor.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\WebGrease.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\EntityFramework.xml
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\EntityFramework.SqlServer.xml
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\System.Web.Helpers.xml
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\System.Web.Mvc.xml
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\System.Web.Optimization.xml
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\System.Web.Razor.xml
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.xml
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Deployment.xml
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Razor.xml
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\Newtonsoft.Json.xml
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\Antlr3.Runtime.pdb
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\vvv\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.AssemblyReference.cache
+D:\Project\vvv\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.CoreCompileInputs.cache
+D:\Project\vvv\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.CopyComplete
+D:\Project\vvv\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.pdb
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\PagedList.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\PagedList.Mvc.dll
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\PagedList.xml
+D:\Project\vvv\vFashionWEB\vFashionWEB\bin\PagedList.Mvc.xml
+D:\Download\vFashionWEB\vFashionWEB\bin\PagedList.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\PagedList.Mvc.dll
+D:\Download\vFashionWEB\vFashionWEB\bin\PagedList.xml
+D:\Download\vFashionWEB\vFashionWEB\bin\PagedList.Mvc.xml
+D:\Media\vFashionWEB\vFashionWEB\bin\vFashionWEB.dll.config
+D:\Media\vFashionWEB\vFashionWEB\bin\vFashionWEB.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\vFashionWEB.pdb
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\csc.exe
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\csc.exe.config
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\csc.rsp
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\csi.exe
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\csi.exe.config
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\csi.rsp
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.AppContext.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.Collections.Immutable.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.Console.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.Globalization.Calendars.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.Compression.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.FileSystem.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.Net.Http.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.Net.Sockets.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.ValueTuple.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XPath.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\vbc.exe
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\vbc.exe.config
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\vbc.rsp
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\VBCSCompiler.exe
+D:\Media\vFashionWEB\vFashionWEB\bin\roslyn\VBCSCompiler.exe.config
+D:\Media\vFashionWEB\vFashionWEB\bin\Antlr3.Runtime.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\EntityFramework.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\EntityFramework.SqlServer.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\Microsoft.Web.Infrastructure.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\Newtonsoft.Json.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\PagedList.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\PagedList.Mvc.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\System.Web.Helpers.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\System.Web.Mvc.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\System.Web.Optimization.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\System.Web.Razor.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Deployment.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Razor.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\WebGrease.dll
+D:\Media\vFashionWEB\vFashionWEB\bin\EntityFramework.xml
+D:\Media\vFashionWEB\vFashionWEB\bin\EntityFramework.SqlServer.xml
+D:\Media\vFashionWEB\vFashionWEB\bin\PagedList.xml
+D:\Media\vFashionWEB\vFashionWEB\bin\PagedList.Mvc.xml
+D:\Media\vFashionWEB\vFashionWEB\bin\System.Web.Helpers.xml
+D:\Media\vFashionWEB\vFashionWEB\bin\System.Web.Mvc.xml
+D:\Media\vFashionWEB\vFashionWEB\bin\System.Web.Optimization.xml
+D:\Media\vFashionWEB\vFashionWEB\bin\System.Web.Razor.xml
+D:\Media\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.xml
+D:\Media\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Deployment.xml
+D:\Media\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Razor.xml
+D:\Media\vFashionWEB\vFashionWEB\bin\Newtonsoft.Json.xml
+D:\Media\vFashionWEB\vFashionWEB\bin\Antlr3.Runtime.pdb
+D:\Media\vFashionWEB\vFashionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Media\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.AssemblyReference.cache
+D:\Media\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.CoreCompileInputs.cache
+D:\Media\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.CopyComplete
+D:\Media\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.dll
+D:\Media\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.pdb
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\vFashionWEB.dll.config
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\vFashionWEB.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\vFashionWEB.pdb
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\csc.exe
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\csc.exe.config
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\csc.rsp
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\csi.exe
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\csi.exe.config
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\csi.rsp
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.AppContext.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.Console.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.Net.Http.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\vbc.exe
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\vbc.exe.config
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\vbc.rsp
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\Antlr3.Runtime.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\EntityFramework.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\EntityFramework.SqlServer.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\Newtonsoft.Json.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\PagedList.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\PagedList.Mvc.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\System.Web.Helpers.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\System.Web.Mvc.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\System.Web.Optimization.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\System.Web.Razor.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Razor.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\WebGrease.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\EntityFramework.xml
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\EntityFramework.SqlServer.xml
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\PagedList.xml
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\PagedList.Mvc.xml
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\System.Web.Helpers.xml
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\System.Web.Mvc.xml
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\System.Web.Optimization.xml
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\System.Web.Razor.xml
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.xml
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Razor.xml
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\Newtonsoft.Json.xml
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\Antlr3.Runtime.pdb
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.AssemblyReference.cache
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.CoreCompileInputs.cache
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.CopyComplete
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.pdb
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.Security.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\Owin.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.xml
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.Security.xml
+D:\App\vFashionWEB\vFashionWEB\bin\vFashionWEB.dll.config
+D:\App\vFashionWEB\vFashionWEB\bin\vFashionWEB.dll
+D:\App\vFashionWEB\vFashionWEB\bin\vFashionWEB.pdb
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\csc.exe
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\csc.exe.config
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\csc.rsp
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\csi.exe
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\csi.exe.config
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\csi.rsp
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.AppContext.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.Collections.Immutable.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.Console.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.Globalization.Calendars.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.Compression.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.FileSystem.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.Net.Http.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.Net.Sockets.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.ValueTuple.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XPath.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\vbc.exe
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\vbc.exe.config
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\vbc.rsp
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\VBCSCompiler.exe
+D:\App\vFashionWEB\vFashionWEB\bin\roslyn\VBCSCompiler.exe.config
+D:\App\vFashionWEB\vFashionWEB\bin\Antlr3.Runtime.dll
+D:\App\vFashionWEB\vFashionWEB\bin\EntityFramework.dll
+D:\App\vFashionWEB\vFashionWEB\bin\EntityFramework.SqlServer.dll
+D:\App\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\App\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\App\vFashionWEB\vFashionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\App\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.dll
+D:\App\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\App\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.Security.dll
+D:\App\vFashionWEB\vFashionWEB\bin\Microsoft.Web.Infrastructure.dll
+D:\App\vFashionWEB\vFashionWEB\bin\Newtonsoft.Json.dll
+D:\App\vFashionWEB\vFashionWEB\bin\Owin.dll
+D:\App\vFashionWEB\vFashionWEB\bin\PagedList.dll
+D:\App\vFashionWEB\vFashionWEB\bin\PagedList.Mvc.dll
+D:\App\vFashionWEB\vFashionWEB\bin\System.Web.Helpers.dll
+D:\App\vFashionWEB\vFashionWEB\bin\System.Web.Mvc.dll
+D:\App\vFashionWEB\vFashionWEB\bin\System.Web.Optimization.dll
+D:\App\vFashionWEB\vFashionWEB\bin\System.Web.Razor.dll
+D:\App\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Deployment.dll
+D:\App\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.dll
+D:\App\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Razor.dll
+D:\App\vFashionWEB\vFashionWEB\bin\WebGrease.dll
+D:\App\vFashionWEB\vFashionWEB\bin\EntityFramework.xml
+D:\App\vFashionWEB\vFashionWEB\bin\EntityFramework.SqlServer.xml
+D:\App\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\App\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\App\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\App\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\App\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.xml
+D:\App\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\App\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.Security.xml
+D:\App\vFashionWEB\vFashionWEB\bin\PagedList.xml
+D:\App\vFashionWEB\vFashionWEB\bin\PagedList.Mvc.xml
+D:\App\vFashionWEB\vFashionWEB\bin\System.Web.Helpers.xml
+D:\App\vFashionWEB\vFashionWEB\bin\System.Web.Mvc.xml
+D:\App\vFashionWEB\vFashionWEB\bin\System.Web.Optimization.xml
+D:\App\vFashionWEB\vFashionWEB\bin\System.Web.Razor.xml
+D:\App\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.xml
+D:\App\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Deployment.xml
+D:\App\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Razor.xml
+D:\App\vFashionWEB\vFashionWEB\bin\Newtonsoft.Json.xml
+D:\App\vFashionWEB\vFashionWEB\bin\Antlr3.Runtime.pdb
+D:\App\vFashionWEB\vFashionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\App\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.AssemblyReference.cache
+D:\App\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.CoreCompileInputs.cache
+D:\App\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.CopyComplete
+D:\App\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.dll
+D:\App\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.pdb
+D:\Project\vFashionWEB\vFashionWEB\bin\vFashionWEB.dll.config
+D:\Project\vFashionWEB\vFashionWEB\bin\vFashionWEB.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\vFashionWEB.pdb
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\csc.exe
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\csc.exe.config
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\csc.rsp
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\csi.exe
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\csi.exe.config
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\csi.rsp
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.AppContext.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.Console.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.Globalization.Calendars.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.Compression.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.FileSystem.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.Net.Http.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.Net.Sockets.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.ValueTuple.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XPath.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\vbc.exe
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\vbc.exe.config
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\vbc.rsp
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\VBCSCompiler.exe
+D:\Project\vFashionWEB\vFashionWEB\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\vFashionWEB\vFashionWEB\bin\Antlr3.Runtime.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\EntityFramework.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\EntityFramework.SqlServer.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.Security.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\Newtonsoft.Json.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\Owin.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\PagedList.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\PagedList.Mvc.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\System.Web.Helpers.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\System.Web.Mvc.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\System.Web.Optimization.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\System.Web.Razor.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Deployment.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Razor.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\WebGrease.dll
+D:\Project\vFashionWEB\vFashionWEB\bin\EntityFramework.xml
+D:\Project\vFashionWEB\vFashionWEB\bin\EntityFramework.SqlServer.xml
+D:\Project\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\Project\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Project\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\Project\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Project\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.xml
+D:\Project\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.Security.xml
+D:\Project\vFashionWEB\vFashionWEB\bin\PagedList.xml
+D:\Project\vFashionWEB\vFashionWEB\bin\PagedList.Mvc.xml
+D:\Project\vFashionWEB\vFashionWEB\bin\System.Web.Helpers.xml
+D:\Project\vFashionWEB\vFashionWEB\bin\System.Web.Mvc.xml
+D:\Project\vFashionWEB\vFashionWEB\bin\System.Web.Optimization.xml
+D:\Project\vFashionWEB\vFashionWEB\bin\System.Web.Razor.xml
+D:\Project\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.xml
+D:\Project\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Deployment.xml
+D:\Project\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Razor.xml
+D:\Project\vFashionWEB\vFashionWEB\bin\Newtonsoft.Json.xml
+D:\Project\vFashionWEB\vFashionWEB\bin\Antlr3.Runtime.pdb
+D:\Project\vFashionWEB\vFashionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.AssemblyReference.cache
+D:\Project\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.CoreCompileInputs.cache
+D:\Project\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.CopyComplete
+D:\Project\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.dll
+D:\Project\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.pdb
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.AssemblyReference.cache
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.CoreCompileInputs.cache
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.pdb
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\vFashionWEB.dll.config
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\vFashionWEB.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\vFashionWEB.pdb
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\csc.exe
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\csc.exe.config
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\csc.rsp
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\csi.exe
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\csi.exe.config
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\csi.rsp
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.AppContext.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.Console.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.Net.Http.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\vbc.exe
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\vbc.exe.config
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\vbc.rsp
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\Antlr3.Runtime.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\EntityFramework.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\EntityFramework.SqlServer.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.Security.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\Newtonsoft.Json.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\Owin.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\PagedList.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\PagedList.Mvc.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\PayPal.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\System.Web.Helpers.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\System.Web.Mvc.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\System.Web.Optimization.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\System.Web.Razor.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Razor.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\WebGrease.dll
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\EntityFramework.xml
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\EntityFramework.SqlServer.xml
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.xml
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.Security.xml
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\PagedList.xml
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\PagedList.Mvc.xml
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\PayPal.xml
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\System.Web.Helpers.xml
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\System.Web.Mvc.xml
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\System.Web.Optimization.xml
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\System.Web.Razor.xml
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.xml
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Razor.xml
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\Newtonsoft.Json.xml
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\Antlr3.Runtime.pdb
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AN515-44\OneDrive\Máy tính\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csproj.CopyComplete
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\PayPal.dll
+C:\Users\AN515-44\Downloads\vFashionWEB\vFashionWEB\bin\PayPal.xml
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\vFashionWEB.dll.config
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\vFashionWEB.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\vFashionWEB.pdb
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\csc.exe
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\csc.exe.config
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\csc.rsp
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\csi.exe
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\csi.exe.config
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\csi.rsp
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.AppContext.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.Collections.Immutable.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.Console.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.Globalization.Calendars.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.Compression.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.FileSystem.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.Net.Http.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.Net.Sockets.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.ValueTuple.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XPath.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\vbc.exe
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\vbc.exe.config
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\vbc.rsp
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\VBCSCompiler.exe
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\roslyn\VBCSCompiler.exe.config
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\Antlr3.Runtime.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\EntityFramework.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\EntityFramework.SqlServer.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.Security.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\Microsoft.Web.Infrastructure.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\Newtonsoft.Json.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\Owin.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\PagedList.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\PagedList.Mvc.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\PayPal.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\System.Web.Helpers.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\System.Web.Mvc.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\System.Web.Optimization.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\System.Web.Razor.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Deployment.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Razor.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\WebGrease.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\EntityFramework.xml
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\EntityFramework.SqlServer.xml
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.xml
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\Microsoft.Owin.Security.xml
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\PagedList.xml
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\PagedList.Mvc.xml
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\PayPal.xml
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\System.Web.Helpers.xml
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\System.Web.Mvc.xml
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\System.Web.Optimization.xml
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\System.Web.Razor.xml
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.xml
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Deployment.xml
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\System.Web.WebPages.Razor.xml
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\Newtonsoft.Json.xml
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\Antlr3.Runtime.pdb
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.csprojResolveAssemblyReference.cache
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.dll
+D:\HỌC NỮA HỌC MÃI\HTML\SneakerShopFull\vFashionWEB\vFashionWEB\obj\Debug\vFashionWEB.pdb
